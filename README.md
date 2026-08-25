@@ -1,4 +1,4 @@
-Ola, eu sou o Elton. \n
+Ola, eu sou o Elton. <br>
 Estudo ciência da computação e adoro arte e tecnologia.
 
 <!--
