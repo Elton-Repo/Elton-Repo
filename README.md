@@ -1,5 +1,5 @@
-Ola, eu sou o Elton
-Estudo ciência da computação e adoro arte e tecnologia
+Ola, eu sou o Elton. \n
+Estudo ciência da computação e adoro arte e tecnologia.
 
 <!--
 **Elton-Repo/Elton-Repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
