@@ -1,27 +1,49 @@
-# Hello! 👋
+Professional GitHub Profile README
 
-I'm **Elton**.
+<p align="center"> <img src="./banner.png" alt="Pixel art banner" width="100%"> </p>
 
-<p align="center">
-  <img src="./banner.png" alt="Pixel art banner" width="100%">
-</p>
+Hello, I'm Elton 👋
 
-## 👨‍💻 About Me
+I'm a Computer Science student with an interest in Game Development and Graphics Programming. I enjoy exploring the intersection of technology, creativity, games, and art.
 
-I'm interested in games, art, and programming.  
-I'm currently studying Computer Science, with the goal of using my knowledge to create something useful or artistic.
+About Me
+🎓 Computer Science student
+🎮 Interested in Game Development and Graphics Programming
+🎨 Interested in the relationship between technology, games, and art
+🚀 Focused on continuous learning through study and personal projects
 
-## 🛠️ Technologies and Tools
+Currently Learning
+Algorithms
+Database Fundamentals
+Front-end Web Development
+Technologies
 
-- Languages: **Python, C**
-- Front-end: **HTML, CSS**
-- Databases: **[Work in progress]**
-- Tools: **[Work in progress]**
+Programming Languages
 
-## 📫 Contact
+Python · C
 
-[Work in progress]
+Web Development
 
----
+HTML · CSS
 
-⭐ Thanks for visiting my profile!
+Areas of Interest
+Game Development
+Graphics Programming
+Algorithms and Problem Solving
+Interactive Applications
+Goals
+Strengthen my programming and problem-solving skills
+Develop projects that combine technology and creativity
+Explore Game Development and Graphics Programming in greater depth
+Continuously expand my knowledge through practice and personal projects
+Projects
+
+This section will showcase projects that represent my learning journey and technical interests.
+
+Projects coming soon.
+
+Contact
+
+Work in progress.
+
+<p align="center"> Thanks for visiting my profile. </p>
