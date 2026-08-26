@@ -1,49 +1,60 @@
-Professional GitHub Profile README
+# Professional GitHub Profile README
 
-<p align="center"> <img src="./banner.png" alt="Pixel art banner" width="100%"> </p>
+<p align="center">
+  <img src="./banner.png" alt="Pixel art banner" width="100%">
+</p>
 
-Hello, I'm Elton 👋
+# Hello, I'm Elton 👋
 
-I'm a Computer Science student with an interest in Game Development and Graphics Programming. I enjoy exploring the intersection of technology, creativity, games, and art.
+I'm a Computer Science student with an interest in **Game Development** and **Graphics Programming**. I enjoy exploring the intersection of technology, creativity, games, and art.
 
-About Me
-🎓 Computer Science student
-🎮 Interested in Game Development and Graphics Programming
-🎨 Interested in the relationship between technology, games, and art
-🚀 Focused on continuous learning through study and personal projects
+## About Me
 
-Currently Learning
-Algorithms
-Database Fundamentals
-Front-end Web Development
-Technologies
+* 🎓 Computer Science student
+* 🎮 Interested in Game Development and Graphics Programming
+* 🎨 Interested in the relationship between technology, games, and art
+* 🚀 Focused on continuous learning through study and personal projects
 
-Programming Languages
+## Currently Learning
+
+* Algorithms
+* Database Fundamentals
+* Front-end Web Development
+
+## Technologies
+
+**Programming Languages**
 
 Python · C
 
-Web Development
+**Web Development**
 
 HTML · CSS
 
-Areas of Interest
-Game Development
-Graphics Programming
-Algorithms and Problem Solving
-Interactive Applications
-Goals
-Strengthen my programming and problem-solving skills
-Develop projects that combine technology and creativity
-Explore Game Development and Graphics Programming in greater depth
-Continuously expand my knowledge through practice and personal projects
-Projects
+## Areas of Interest
 
-This section will showcase projects that represent my learning journey and technical interests.
+* Game Development
+* Graphics Programming
+* Algorithms and Problem Solving
+* Interactive Applications
 
-Projects coming soon.
+## Goals
 
-Contact
+* Strengthen my programming and problem-solving skills
+* Develop projects that combine technology and creativity
+* Explore Game Development and Graphics Programming in greater depth
+* Continuously expand my knowledge through practice and personal projects
 
-Work in progress.
+## Projects
 
-<p align="center"> Thanks for visiting my profile. </p>
+> Work in progress.
+
+## Contact
+
+> Work in progress.
+
+---
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
