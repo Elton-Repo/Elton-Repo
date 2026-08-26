@@ -2,6 +2,10 @@
 
 I'm **Elton**.
 
+<p align="center">
+  <img src="./banner.png" alt="Pixel art banner" width="100%">
+</p>
+
 ## 👨‍💻 About Me
 
 I'm interested in games, art, and programming.  
