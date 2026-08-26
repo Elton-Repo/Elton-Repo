@@ -11,7 +11,6 @@ I'm currently studying Computer Science, with the goal of using my knowledge to 
 
 - Languages: **Python, C**
 - Front-end: **HTML, CSS**
-- Back-end: **[Work in progress]**
 - Databases: **[Work in progress]**
 - Tools: **[Work in progress]**
 
