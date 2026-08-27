@@ -51,7 +51,7 @@ HTML · CSS
 
 ## Contact
 
-> Work in progress.
+> (https://www.linkedin.com/in/elton-santos-soares-029769431/)
 
 ---
 
